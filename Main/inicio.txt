@@ -28,3 +28,15 @@ Conflicto
 
 Cambio anterior / Cambio actual
 git pull 
+
+
+releases (cambios)
+
+v 1.0.0
+  2.0.0
+v 1.0.0
+v 1.1.0  
+v 1.1.1
+
+version.release.hotfix
+major.minor.patch
