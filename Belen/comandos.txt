@@ -1,0 +1,7 @@
+git config
+git init
+git status
+git branch NombreRama
+git checkout NombreRama
+git merge
+...
