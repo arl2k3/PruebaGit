@@ -8,3 +8,7 @@ M -> Modified
 .pdf
 
 Ya hasta aqui llega
+
+
+Local Changes -> Solo nosotros podemos visualizarlos, en nuestra Pc
+Web -> Ya esta disponibles para todos
