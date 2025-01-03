@@ -1,0 +1,10 @@
+
+U -> Untracked -> Git lo esta ignorando
+A -> Added
+M -> Modified
+
+.txt
+.py
+.pdf
+
+Ya hasta aqui llega
